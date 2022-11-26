@@ -11,9 +11,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h2>테스트 중..</h2>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
-      <div className="div"></div>
-    </div>
+      <div/>
+      <div className="w-[100px] h-[100px] bg-red-800"/>
+
+      </div>
+    
   );
 }
